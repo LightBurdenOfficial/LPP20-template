@@ -1,7 +1,7 @@
 pragma solidity ^0.4.19;
 //this is the compiler version//
 
-contract BRLx {
+contract ContractLBCh {
 //this is the token contract name, change to liking//
 
     event Transfer(address indexed _from, address indexed _to, uint256 _value);
@@ -35,7 +35,7 @@ contract BRLx {
          _;
      }
   
-     function BRLx()
+     function ContractLBCh()
      //this is the token contract name, change to liking//
 
      {
